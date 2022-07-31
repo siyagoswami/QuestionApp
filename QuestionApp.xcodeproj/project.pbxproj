@@ -17,6 +17,8 @@
 		9A47F8852893058C0035E357 /* QuestionAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A47F8842893058C0035E357 /* QuestionAppTests.swift */; };
 		9A47F88F2893058C0035E357 /* QuestionAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A47F88E2893058C0035E357 /* QuestionAppUITests.swift */; };
 		9A47F8912893058C0035E357 /* QuestionAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A47F8902893058C0035E357 /* QuestionAppUITestsLaunchTests.swift */; };
+		9A47F89E2893083B0035E357 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A47F89D2893083B0035E357 /* SecondViewController.swift */; };
+		9A47F8A0289317460035E357 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A47F89F289317460035E357 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		9A47F88A2893058C0035E357 /* QuestionAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuestionAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A47F88E2893058C0035E357 /* QuestionAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionAppUITests.swift; sourceTree = "<group>"; };
 		9A47F8902893058C0035E357 /* QuestionAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9A47F89D2893083B0035E357 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		9A47F89F289317460035E357 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				9A47F8782893058C0035E357 /* LaunchScreen.storyboard */,
 				9A47F87B2893058C0035E357 /* Info.plist */,
 				9A47F873289305890035E357 /* QuestionApp.xcdatamodeld */,
+				9A47F89D2893083B0035E357 /* SecondViewController.swift */,
+				9A47F89F289317460035E357 /* ThirdViewController.swift */,
 			);
 			path = QuestionApp;
 			sourceTree = "<group>";
@@ -264,6 +270,8 @@
 				9A47F86F289305890035E357 /* ViewController.swift in Sources */,
 				9A47F875289305890035E357 /* QuestionApp.xcdatamodeld in Sources */,
 				9A47F86B289305890035E357 /* AppDelegate.swift in Sources */,
+				9A47F89E2893083B0035E357 /* SecondViewController.swift in Sources */,
+				9A47F8A0289317460035E357 /* ThirdViewController.swift in Sources */,
 				9A47F86D289305890035E357 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
